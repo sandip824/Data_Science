@@ -1,8 +1,5 @@
 # Python Basics
-* Boolean
-* Boolean and Logical Operators
-* Lists
-* Comparison operators
-* Dictionaries
-* Tuples
-* Sets
+* 1.Python_loops
+* 2.Python_Tuple
+* 3.Python_ Lists
+* 4.Python_Sequence Functions
